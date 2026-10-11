@@ -105,7 +105,7 @@ python estimate_beta.py
 |---|---|
 | `ASML_DCF.xlsx` | assumptions, DCF, sensitivity grid, comparables, sources |
 | `ASSUMPTIONS.md` | every assumption with the argument for and against |
-| `estimate_beta.py` | beta regression with self-test |
+| `estimate_Beta.py` | beta regression with self-test |
 
 ## Limitations
 
